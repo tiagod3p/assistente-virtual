@@ -55,7 +55,7 @@ Inicie a aplicação:
 $ python3 bot.py
 ```
 
-Abra o seu telegram e inicie uma conversa com o [tiagod3p-bot](t.me/tiagod3p_bot)
+Abra o seu telegram e inicie uma conversa com o [tiagod3p-bot](https://t.me/tiagod3p_bot)
 
 ## :hammer: Funcionalidades
 
@@ -70,7 +70,7 @@ Caso queira adicionar qualquer nova funcionalidade não hesite, contribua para o
 ## :pencil2: Como contribuir
 
 - Faça um Fork do projeto
-- Cria uma branch com a sua feature: `$ git checkout -b minha-feature`;
+- Crie uma branch com a sua feature: `$ git checkout -b minha-feature`;
 - Faça commit das suas alterações: `$ git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `$ git push origin minha-feature`.
 - Abra uma Pull Request

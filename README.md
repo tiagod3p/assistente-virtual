@@ -2,14 +2,14 @@
     Assistente Virtual Tiagod3p BOT
 </h1>
 
-<p align="justify"> Um assistente virtual desenvolvido em Python integrado com a plataforma Telegram. </p>
+<p align="center"> Um assistente virtual desenvolvido em Python integrado com a plataforma Telegram. </p>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-rodar-a-aplicação">Como rodar a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrow_forward-como-rodar-a-aplicação">Como rodar a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil2-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#octocat-desenvolvedores-e-contribuintes">Desenvolvedores e Contribuintes</a>
 </p>
 
@@ -27,14 +27,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Python 3.8.2](https://www.python.org/)
 - [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/)
 
-## 💻 Projeto
+## :computer: Projeto
 
 O Assistente Virtual (tiagod3p bot) é um projeto que visa facilitar a vida dos usuários oferecendo a eles informações e automações de tarefas através de um simples digitar de comandos.
 
 > Status do Projeto: Em desenvolvimento :warning:
 
 
-## ▶ Como rodar a aplicação
+## :arrow_forward: Como rodar a aplicação
 
 No terminal, clone o projeto: 
 
@@ -44,7 +44,7 @@ $ git clone https://github.com/tiagod3p/math-algorithms.git
 $ cd math-algorithms
 ```
 
-Instale as dependência:
+Instale as dependências:
 
 ```
 $ pip install -r requirements.txt
@@ -57,7 +57,7 @@ $ python3 bot.py
 
 Abra o seu telegram e inicie uma conversa com o [tiagod3p-bot](t.me/tiagod3p_bot)
 
-## 🔨 Funcionalidades
+## :hammer: Funcionalidades
 
 - Previsão do tempo  --> Informações sobre o clima de uma cidade.
 - Covid-19 --> Informações sobre o covid-19 em um país ou estado brasileiro.
@@ -67,7 +67,7 @@ Abra o seu telegram e inicie uma conversa com o [tiagod3p-bot](t.me/tiagod3p_bot
 
 Caso queira adicionar qualquer nova funcionalidade não hesite, contribua para o projeto.
 
-## 🤔 Como contribuir
+## :pencil2: Como contribuir
 
 - Faça um Fork do projeto
 - Cria uma branch com a sua feature: `$ git checkout -b minha-feature`;
@@ -88,4 +88,4 @@ Muito obrigado!
 ## :octocat: Desenvolvedores e Contribuintes
 
 | [<img src="https://avatars0.githubusercontent.com/u/62674726?s=460&u=1c4408eb9492a7bf31a18b0a17f8ed7c444ab56b&v=4" width=115><br><sub>Tiago Vidal</sub>](https://github.com/tiagod3p) |
-| :---: | :---: | :---: 
+| :---: |

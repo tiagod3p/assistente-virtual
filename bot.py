@@ -5,7 +5,7 @@ from soccer import soccer_today
 from news import news_today, news_by_subject
 from currency import currency_today
 
-token = "1241767201:AAErj7NKDeGDvJRy4F_V6gktKWzlcUzLRd8"
+token = "YOUR_TELEGRAM_TOKEN"
 bot = telebot.TeleBot(token)
 bot_name = bot.get_me().first_name
 

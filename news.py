@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-api_key = '390d473aa13e4c88ab38a16ac2e1bb39'
+api_key = 'YOUR_API_KEY'
 
 
 def news_today():

@@ -50,12 +50,18 @@ Instale as dependências:
 $ pip install -r requirements.txt
 ```
 
+Gere seu Token do Telegram iniciando uma conversa com o [BotFather](https://t.me/botfather) e seguindo os passos
+
+Gere uma API Key para usar a funcionalidade de noticias através do site [Google News BR](https://newsapi.org/s/google-news-br-api)
+
+Coloque o Token e API Key nos lugares indicados nos arquivos bot.py e news.py respectivamente.
+
 Inicie a aplicação:
 ```
 $ python3 bot.py
 ```
 
-Abra o seu telegram e inicie uma conversa com o [tiagod3p-bot](https://t.me/tiagod3p_bot)
+Abra o seu telegram e inicie uma conversa com o bot que você gerou no [BotFather](https://t.me/botfather)
 
 ## :hammer: Funcionalidades
 

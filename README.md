@@ -39,9 +39,9 @@ O Assistente Virtual (tiagod3p bot) é um projeto que visa facilitar a vida dos 
 No terminal, clone o projeto: 
 
 ```
-$ git clone https://github.com/tiagod3p/math-algorithms.git
+$ git clone https://github.com/tiagod3p/assistente-virtual.git
 
-$ cd math-algorithms
+$ cd assistente-virtual
 ```
 
 Instale as dependências:
